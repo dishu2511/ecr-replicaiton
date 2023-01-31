@@ -1,0 +1,6 @@
+name: ecr-replication
+runtime:
+  name: python
+  options:
+    virtualenv: venv
+description: Stack to create ecr replication

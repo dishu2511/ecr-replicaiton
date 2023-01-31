@@ -1,1 +1,1 @@
-# ecr-replicaiton
+# For more information please visit: 
